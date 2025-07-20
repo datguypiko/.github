@@ -6,6 +6,9 @@ description: Request features for FirefoxBlur theme
 
 labels: ["Enhancement"]
 
+assignees:
+  - datguypiko
+
 body:
 
 - type: textarea
@@ -18,6 +21,6 @@ body:
 - type: textarea
   attributes:
     label: Possible implementation (Opional)
-    description: CSS Code field - If you have code to suggest already you can copy paste here
-    placeholder: Describe a potential method of implementing this feature
+    description: CSS Code field - If you have code to suggest potential method of implementing this feature.
+    placeholder: Copy paste CSS code here..
     render: CSS
