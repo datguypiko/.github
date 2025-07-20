@@ -1,0 +1,23 @@
+name: Feature Request
+
+title: Title for the feature
+
+description: Request features for FirefoxBlur theme
+
+labels: ["Enhancement"]
+
+body:
+
+- type: textarea
+  attributes:
+    label: Request Enhancement
+    placeholder: Describe the feature you would like to see implemented!
+  validations:
+    required: true
+
+- type: textarea
+  attributes:
+    label: Possible implementation (Opional)
+    description: CSS Code field - If you have code to suggest already you can copy paste here
+    placeholder: Describe a potential method of implementing this feature
+    render: CSS
