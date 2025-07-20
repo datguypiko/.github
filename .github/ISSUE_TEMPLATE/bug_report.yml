@@ -42,7 +42,7 @@ body:
 
 - type: input
   attributes:
-    label: Firefox Version (Not required)
+    label: Firefox Version (Optional)
     placeholder: e.g. v140.0.1
   validations:
     required: false
@@ -50,7 +50,7 @@ body:
 - type: textarea
   attributes:
     label: Describe Your Issue
-    description: Issue / Expected behavior / Add picture/video previews
+    description: Issue / Expected behavior / Add picture/video previews.
     placeholder: Report the issue..
   validations:
     required: true
