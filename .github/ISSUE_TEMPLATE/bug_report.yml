@@ -11,6 +11,13 @@ assignees:
 
 body:
 
+- type: markdown
+  attributes:
+    value: |
+      <p align="center">
+         <img src="https://github.com/datguypiko/.github/blob/main/images/firefox/redFP.png?raw=true" width="100%" height="100%" />
+      </p>
+
 - type: dropdown
   attributes:
     label: System OS
