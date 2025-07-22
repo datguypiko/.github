@@ -15,7 +15,9 @@ body:
   attributes:
     value: |
       <div align="center">
+      <a href="#">
          <img src="https://github.com/datguypiko/.github/blob/main/images/firefox/fox14.png?raw=true" width="940" height="300" />
+      </a>
       </div>
 
 - type: textarea
