@@ -1,0 +1,26 @@
+name: Ask Question
+
+title: Your question..
+
+description: For questions only. Not issues or features.
+
+labels: ["Question"]
+
+assignees:
+  - datguypiko
+
+body:
+
+- type: markdown
+  attributes:
+    value: |
+      <div align="center">
+         <img src="https://github.com/datguypiko/.github/blob/main/images/firefox/fox14.png?raw=true" width="940" height="300" />
+      </div>
+
+- type: textarea
+  attributes:
+    label: Ask a question
+    placeholder: Your question about the theme..
+  validations:
+    required: true
