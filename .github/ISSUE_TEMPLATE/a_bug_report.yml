@@ -30,7 +30,7 @@ body:
       - Linux
       - MacOS (Not tested)
       - Other
-  default: 0
+    default: 0
   validations:
     required: true
 
