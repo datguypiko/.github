@@ -25,10 +25,12 @@ body:
     label: System OS
     description: Select operating system you are having issue with. Not tested on MacOS, may still check the issue.
     options:
-      - Windows
+      - Windows 11
+      - Windows 10
       - Linux
       - MacOS (Not tested)
       - Other
+  default: 0
   validations:
     required: true
 
