@@ -25,9 +25,13 @@ body:
     label: System OS
     description: Select operating system you are having issue with. Not tested on MacOS, may still check the issue.
     options:
+      - Select
       - Windows 11
       - Windows 10
       - Linux
+      - Linux KDE
+      - Linux GNOME
+      - Linux Cinamon
       - MacOS (Not tested)
       - Other
     default: 0
